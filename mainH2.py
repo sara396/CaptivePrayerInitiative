@@ -23,4 +23,5 @@ print("תודה שאתה עוזר לנו להחזרת החטופים🙏🙏🙏
 # chtofim2.day_to_davening('שישי')
     #בשביל לדעת כמה ספרי תהילים כבר נאמרו כתוב:
 #chtofim2.chckBook(chtofim1.tempDayToDaven,chtofim1.emounBookToDaven)
+print("Rivky Malka")
 

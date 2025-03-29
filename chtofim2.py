@@ -70,7 +70,7 @@ def name_to_davening(otherName):
             print("thanks that you daven about: ", i['name'])
             print("day to daven: ", tempDayToDaven[0])
             print("The current date is: ",datetime.now())
-            print(f"The number of days {i["name"]} in captivity are: ",num_days)
+            # print(f"The number of days {i["name"]} in captivity are: ",num_days)
             del (tempDayToDaven[0])
             chckBook(tempDayToDaven)
             break
